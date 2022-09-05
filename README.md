@@ -1,1 +1,1 @@
-Project: https://teracle.github.io/NewsFlash/
+Project: https://mnosov622.github.io/NewsFlash/
